@@ -30,7 +30,6 @@
 <a name="arch"></a>
 
 ## Architecture
-### Architecture
 ![lignin-architecture](https://github.com/jungle-dogtalk/.github/blob/main/profile/lignin-architecture.png?raw=true)
 
 
