@@ -12,7 +12,7 @@
 
 프로젝트 기간 : 2024.06.20 ~ 2024.07.27
 
-팀원 : [김세연](https://github.com/syk25), [김도연](https://github.com/wnstn819), [최상욱](https://github.com/SamChoi-94), [주소미](https://github.com/joosomi), [심우정](https://github.com/ShimWooJeong)
+팀원 : [김세연](https://github.com/syk25), [김도연](https://github.com/doyeon012), [최상욱](https://github.com/SamChoi-94), [주소미](https://github.com/joosomi), [심우정](https://github.com/ShimWooJeong)
 
 **기술 스택**
 
