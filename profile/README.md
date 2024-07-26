@@ -40,3 +40,4 @@
 <a name="poster"></a>
 
 ## 포스터
+![lignin-poster](https://github.com/jungle-dogtalk/.github/blob/main/profile/lignin-poster.png?raw=true)
