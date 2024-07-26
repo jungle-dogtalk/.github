@@ -29,12 +29,9 @@
 
 <a name="arch"></a>
 
-## Architecture & CI/CD
+## Architecture
 ### Architecture
 ![lignin-architecture](https://github.com/jungle-dogtalk/.github/blob/main/profile/lignin-architecture.png?raw=true)
-
-
-### CI/CD
 
 
 <a name="poster"></a>
