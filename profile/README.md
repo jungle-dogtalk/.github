@@ -1,7 +1,7 @@
 # 목차
 
 1. [프로젝트 소개](#lignin)
-2. [Architecture & CI/CD](#arch)
+2. [Architecture](#arch)
 3. [포스터](#poster)
 
 
