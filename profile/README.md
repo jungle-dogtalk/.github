@@ -23,8 +23,6 @@
 | Database | <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFFFFF"/> |
 | Infra    | <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/> |
 
-**서비스 소개 영상 : [바로가기]**
-
 
 
 <a name="arch"></a>
