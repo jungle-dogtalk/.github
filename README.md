@@ -1,4 +1,4 @@
 # .github
-Organization Redame 전용 Repository
+Organization Readme 전용 Repository
 
 테스트
