@@ -14,7 +14,6 @@
 ## 프로젝트 개요
 관심사 기반으로 매칭된 사용자들이 마스크를 쓰고 비디오 채팅을 통해 대화할 수 있는 웹 서비스
 
-## 기획 배경
 
 **프로젝트 기간** : 2024.06.20 ~ 2024.07.27(5주)
 
@@ -37,8 +36,6 @@
 | Backend  | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/OpenVidu-F7901E?style=for-the-badge&logo=OpenVidu&logoColor=FFFFFF"/> |
 | Database | <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=FFFFFF"/> |
 | Infra    | <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/> |
-
-**선택 이유**
 
 
 -----
@@ -71,26 +68,3 @@
 |               | - 폴리싱 및 최종 발표          |
 
 
-
-------
-
-
-## 기능 설명 
-
-*1. 마스킹 기능* <br>
-*2. 관심사 기반 매칭* <br>
-*3. AI 주제 추천 및 피드백* <br>
-*4. 음성인식 및 STT, TTS* <br>
-*5. 실시간 제스쳐 인식 기반 퀴즈*
-
-----
-
-## 프로젝트 한계 및 개선 방안
-**한계**
-
-**개선 방안**
-
-
----
-
-## 회고 및 느낀점
